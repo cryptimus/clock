@@ -3,4 +3,4 @@ Clock
 
 Here's a live demo:
 
-https://j5aurav.github.io/clock/clock.html
+https://cryptimus.github.io/clock/clock.html
